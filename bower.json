@@ -1,0 +1,17 @@
+{
+  "name": "criando-um-site-responsivo-do-comeco-ao-fim",
+  "homepage": "https://github.com/ThiagoAGDev/criando-um-site-responsivo-do-comeco-ao-fim",
+  "authors": [
+    "Willian <willian.cordeiro@digitalindustry.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
